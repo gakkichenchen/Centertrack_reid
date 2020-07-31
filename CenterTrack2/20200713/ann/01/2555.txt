@@ -1,0 +1,1 @@
+[{"category":"36","category2":"","id":898,"type":"bbox","points":[921,716,970,770]},{"category":"37","category2":"","id":"884","type":"bbox","points":[872,747,913,780]},{"category":"36","category2":"","id":901,"type":"bbox","points":[904,729,934,765]},{"category":"37","category2":"","id":902,"type":"bbox","points":[868,747,896,771]}]
